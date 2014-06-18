@@ -47,3 +47,4 @@ MurderQuest/MurderQuest/obj/*
 
 MurderQuest/MurderQuest/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 MurderQuest/MurderQuestContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
