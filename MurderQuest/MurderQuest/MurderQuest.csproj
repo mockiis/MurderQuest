@@ -73,7 +73,7 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DrawTalkText.cs" />
+    <Compile Include="Objects\DrawTalkText.cs" />
     <Compile Include="Screens\MapScreen\MapScreen.cs" />
     <Compile Include="Utilities\AnimatedSprite.cs" />
     <Compile Include="Utilities\Camera2D.cs" />
@@ -127,7 +127,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Objects\" />
     <Folder Include="Screens\InvestigateScreen\" />
     <Folder Include="Screens\TalkScreen\" />
   </ItemGroup>
