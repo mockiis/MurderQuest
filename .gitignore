@@ -14,8 +14,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-MurderQuest/MurderQuest/Bin/
-MurderQuest/MurderQuest/obj/
+MurderQuest/MurderQuest/Bin/*
+MurderQuest/MurderQuest/Obj/*
 
 # =========================
 # Operating System Files
