@@ -1,0 +1,6 @@
+C:\Users\Spellabbet\Desktop\MurderQuest\MurderQuest\MurderQuest\bin\x86\Debug\MurderQuest.exe
+C:\Users\Spellabbet\Desktop\MurderQuest\MurderQuest\MurderQuest\bin\x86\Debug\MurderQuest.pdb
+C:\Users\Spellabbet\Desktop\MurderQuest\MurderQuest\MurderQuest\obj\x86\Debug\MurderQuest.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\MurderQuest\MurderQuest\MurderQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\MurderQuest\MurderQuest\MurderQuest\obj\x86\Debug\MurderQuest.exe
+C:\Users\Spellabbet\Desktop\MurderQuest\MurderQuest\MurderQuest\obj\x86\Debug\MurderQuest.pdb
