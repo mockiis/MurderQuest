@@ -14,9 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-MurderQuest/MurderQuest/Bin/*
+MurderQuest/MurderQuest/[Bb]in/
 
-MurderQuest/[Oo]bj/*
+MurderQuest/MurderQuest/[Oo]bj/
 =======
 
 
@@ -39,12 +39,4 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-*.cache
-MurderQuest/MurderQuest/obj/x86/Debug/MurderQuest.exe
-MurderQuest/MurderQuest/obj/x86/Debug/MurderQuest.pdb
-MurderQuest/MurderQuestContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-MurderQuest/MurderQuest/obj/*
-
-MurderQuest/MurderQuest/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-MurderQuest/MurderQuestContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
