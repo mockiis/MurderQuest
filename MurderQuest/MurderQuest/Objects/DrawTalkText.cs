@@ -20,6 +20,8 @@ namespace MurderQuest
         private List<Vector2> textPosList = new List<Vector2>();
         private List<Color> textColorList = new List<Color>();
 
+        //just testing
+
         public bool Done = false;
         public bool TextDone
         {
