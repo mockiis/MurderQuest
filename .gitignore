@@ -15,7 +15,10 @@ $RECYCLE.BIN/
 *.msp
 
 MurderQuest/MurderQuest/Bin/*
+
 MurderQuest/[Oo]bj/*
+=======
+
 
 # =========================
 # Operating System Files
@@ -39,4 +42,8 @@ Icon
 *.cache
 MurderQuest/MurderQuest/obj/x86/Debug/MurderQuest.exe
 MurderQuest/MurderQuest/obj/x86/Debug/MurderQuest.pdb
+MurderQuest/MurderQuestContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+MurderQuest/MurderQuest/obj/*
+
+MurderQuest/MurderQuest/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 MurderQuest/MurderQuestContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
