@@ -1,0 +1,6 @@
+F:\Projects\Github\MurderQuest\TextDataXML\bin\x86\Debug\TextDataXML.dll
+F:\Projects\Github\MurderQuest\TextDataXML\bin\x86\Debug\TextDataXML.pdb
+F:\Projects\Github\MurderQuest\TextDataXML\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Projects\Github\MurderQuest\TextDataXML\obj\x86\Debug\TextDataXML.dll
+F:\Projects\Github\MurderQuest\TextDataXML\obj\x86\Debug\TextDataXML.pdb
+F:\Projects\Github\MurderQuest\TextDataXML\obj\x86\Debug\TextDataXML.csprojResolveAssemblyReference.cache

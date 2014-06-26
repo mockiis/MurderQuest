@@ -1,1 +1,2 @@
 C:\Users\Spellabbet\Documents\GitHub\MurderQuest\MurderQuest\MurderQuestContent\obj\x86\Debug\MurderQuestContent.contentprojResolveAssemblyReference.cache
+F:\Projects\Github\MurderQuest\MurderQuest\MurderQuestContent\obj\x86\Debug\MurderQuestContent.contentprojResolveAssemblyReference.cache

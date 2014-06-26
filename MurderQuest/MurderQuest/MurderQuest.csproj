@@ -94,6 +94,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\TextDataXML\TextDataXML.csproj">
+      <Project>{BB543BD9-DAC2-404B-B000-D536386D17D1}</Project>
+      <Name>TextDataXML</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MurderQuestContent\MurderQuestContent.contentproj">
       <Name>MurderQuestContent</Name>
       <XnaReferenceType>Content</XnaReferenceType>

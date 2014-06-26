@@ -1,0 +1,10 @@
+F:\Projects\Github\MurderQuest\MQTextEditor\bin\Debug\MQTextEditor.exe
+F:\Projects\Github\MurderQuest\MQTextEditor\bin\Debug\MQTextEditor.pdb
+F:\Projects\Github\MurderQuest\MQTextEditor\obj\x86\Debug\MQTextEditor.Form1.resources
+F:\Projects\Github\MurderQuest\MQTextEditor\obj\x86\Debug\MQTextEditor.Properties.Resources.resources
+F:\Projects\Github\MurderQuest\MQTextEditor\obj\x86\Debug\MQTextEditor.csproj.GenerateResource.Cache
+F:\Projects\Github\MurderQuest\MQTextEditor\obj\x86\Debug\MQTextEditor.exe
+F:\Projects\Github\MurderQuest\MQTextEditor\obj\x86\Debug\MQTextEditor.pdb
+F:\Projects\Github\MurderQuest\MQTextEditor\bin\Debug\TextDataXML.dll
+F:\Projects\Github\MurderQuest\MQTextEditor\bin\Debug\TextDataXML.pdb
+F:\Projects\Github\MurderQuest\MQTextEditor\obj\x86\Debug\MQTextEditor.csprojResolveAssemblyReference.cache

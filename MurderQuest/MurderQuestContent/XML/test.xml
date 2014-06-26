@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Work>farmer</Work>
+  <Age>10</Age>
+  <Intelligence>1</Intelligence>
+  <Strenght>2</Strenght>
+  <Sanity>3</Sanity>
+  <Dialogs>
+    <ID>1</ID>
+    <NextID>2</NextID>
+    <NPCStatus>0</NPCStatus>
+    <Dialog>i see what you did</Dialog>
+  </Dialogs>
+  <Dialogs>
+    <ID>2</ID>
+    <NextID>0</NextID>
+    <NPCStatus>0</NPCStatus>
+    <Dialog>and the end all is lost</Dialog>
+  </Dialogs>
+  <Dialogs>
+    <ID>3</ID>
+    <NextID>0</NextID>
+    <NPCStatus>0</NPCStatus>
+    <Dialog>fuck this shiat</Dialog>
+  </Dialogs>
+  <Dialogs>
+    <ID>4</ID>
+    <NextID>0</NextID>
+    <NPCStatus>0</NPCStatus>
+    <Dialog>no</Dialog>
+  </Dialogs>
+  <Dialogs>
+    <ID>5</ID>
+    <NextID>0</NextID>
+    <NPCStatus>0</NPCStatus>
+    <Dialog />
+  </Dialogs>
+</XnaContent>

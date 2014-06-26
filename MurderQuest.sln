@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MurderQuest", "MurderQuest\MurderQuest\MurderQuest.csproj", "{A96E802F-688B-4BC7-A726-DB212C6327F2}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MurderQuestContent", "MurderQuest\MurderQuestContent\MurderQuestContent.contentproj", "{D33FBD26-62AF-4CFD-804F-090815B62B0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MurderQuestContent", "MurderQuest\MurderQuestContent\MurderQuestContent.contentproj", "{D33FBD26-62AF-4CFD-804F-090815B62B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDataXML", "TextDataXML\TextDataXML.csproj", "{BB543BD9-DAC2-404B-B000-D536386D17D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTextEditor", "MQTextEditor\MQTextEditor.csproj", "{791D3078-4A5B-407A-8D9C-DEB68500A101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +21,14 @@ Global
 		{A96E802F-688B-4BC7-A726-DB212C6327F2}.Release|x86.Build.0 = Release|x86
 		{D33FBD26-62AF-4CFD-804F-090815B62B0A}.Debug|x86.ActiveCfg = Debug|x86
 		{D33FBD26-62AF-4CFD-804F-090815B62B0A}.Release|x86.ActiveCfg = Release|x86
+		{BB543BD9-DAC2-404B-B000-D536386D17D1}.Debug|x86.ActiveCfg = Debug|x86
+		{BB543BD9-DAC2-404B-B000-D536386D17D1}.Debug|x86.Build.0 = Debug|x86
+		{BB543BD9-DAC2-404B-B000-D536386D17D1}.Release|x86.ActiveCfg = Release|x86
+		{BB543BD9-DAC2-404B-B000-D536386D17D1}.Release|x86.Build.0 = Release|x86
+		{791D3078-4A5B-407A-8D9C-DEB68500A101}.Debug|x86.ActiveCfg = Debug|x86
+		{791D3078-4A5B-407A-8D9C-DEB68500A101}.Debug|x86.Build.0 = Debug|x86
+		{791D3078-4A5B-407A-8D9C-DEB68500A101}.Release|x86.ActiveCfg = Release|x86
+		{791D3078-4A5B-407A-8D9C-DEB68500A101}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
