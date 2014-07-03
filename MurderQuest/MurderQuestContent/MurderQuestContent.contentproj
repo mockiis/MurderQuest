@@ -37,9 +37,23 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Audio\" />
-    <Folder Include="Sprites\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sprites\TempTest\background-room1.png">
+      <Name>background-room1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Sprites\TempTest\background-room2.png">
+      <Name>background-room2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Sprites\TempTest\chap1.png">
+      <Name>chap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
     <Content Include="XML\test.xml">
       <Name>test</Name>
       <Importer>XmlImporter</Importer>

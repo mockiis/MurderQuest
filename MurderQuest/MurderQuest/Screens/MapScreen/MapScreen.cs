@@ -13,14 +13,17 @@ namespace MurderQuest
 {
     class MapScreen:GameScreen
     {
+        private Texture2D background;
         private PeopleTextData WorkData;
         public override void LoadContent()
         {
             state = ScreenState.READY;
+            background = content.Load<Texture2D>("Sprites/TempTest/background-room2");
 
             WorkData = new PeopleTextData();
             ReadXMLFile();
         }
+        //move this function to the librabry later
         private void ReadXMLFile()
         {
             using (XmlReader reader = XmlReader.Create("Content/XML/test.xml"))
@@ -68,13 +71,16 @@ namespace MurderQuest
                 }
             }
         }
+
         public override void Update(GameTime gameTime, InputManager input)
         {
             
         }
         public override void Draw(SpriteBatch spriteBatch)
         {
-            
+            spriteBatch.Begin(SpriteSortMode.BackToFront,BlendState.AlphaBlend);
+            spriteBatch.Draw(background, Vector2.Zero,null, Color.White,0,Vector2.Zero,1,SpriteEffects.None,1);
+            spriteBatch.End();
         }
     }
 }
